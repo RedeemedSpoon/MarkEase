@@ -1,4 +1,4 @@
-# MarkEase - Minimal Yet versatile Image Watermarking Tool
+# MarkEase - Minimal Yet versatile
 
 ![MarkEase Screenshot](./Images/Logo.png)
 
@@ -55,7 +55,7 @@ MarkEase is a sophisticated yet user-friendly Python application tailored for wa
 
 2. **Launch Application**: After installing the necessary packages, execute the `MarkEase.py` script to launch the application and access its intuitive interface:
    ```bash
-   python MarkEase.py
+   python main.py
    ```
    This command will initiate the MarkEase application, allowing you to import, edit, and export images seamlessly.
 3. **Import Image**: Utilize the "Import An Image" button to browse, select, and import an image file for watermarking.
