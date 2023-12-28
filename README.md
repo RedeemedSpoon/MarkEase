@@ -1,6 +1,6 @@
 # MarkEase - Minimal Yet versatile
 
-![MarkEase Screenshot](./Images/Logo.png)
+![MarkEase Screenshot](./Images/Git_Logo.png)
 
 ## Introduction
 
