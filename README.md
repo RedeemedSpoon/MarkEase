@@ -53,9 +53,9 @@ MarkEase is a sophisticated yet user-friendly Python application tailored for wa
    pip install -r requirements.txt
    ```
 
-2. **Launch Application**: After installing the necessary packages, execute the `MarkEase.py` script to launch the application and access its intuitive interface:
+2. **Launch Application**: After installing the necessary packages, execute the `main.py` script to launch the application and access its intuitive interface:
    ```bash
-   python main.py
+   python3 main.py
    ```
    This command will initiate the MarkEase application, allowing you to import, edit, and export images seamlessly.
 3. **Import Image**: Utilize the "Import An Image" button to browse, select, and import an image file for watermarking.
@@ -84,10 +84,6 @@ MarkEase is a sophisticated yet user-friendly Python application tailored for wa
 
 ![Screenshot 1](./Images/home.png)
 ![Screenshot 2](./Images/edit.png)
-
-## Contributing
-
-We welcome contributions from the community! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for comprehensive guidelines on how to contribute to the MarkEase project.
 
 ## License
 
