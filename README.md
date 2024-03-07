@@ -10,7 +10,7 @@ MarkEase is a sophisticated yet user-friendly Python application tailored for wa
 
 ### 1. Import Images
 
--  **Versatile Format Support**: MarkEase allows users to effortlessly import images in various formats, including JPEG, PNG, and GIF, ensuring compatibility with most image files you work with.
+-  **Versatile Format Support**: MarkEase allows users to effortlessly import images in various formats, including JPEP and PNG, ensuring compatibility with most image files you work with.
 -  **User-Friendly Interface**: The import feature is seamlessly integrated into the application's intuitive user interface, enabling quick and hassle-free image uploads.
 
 ### 2. Text Watermarking
@@ -57,28 +57,9 @@ MarkEase is a sophisticated yet user-friendly Python application tailored for wa
    ```bash
    python3 main.py
    ```
-   This command will initiate the MarkEase application, allowing you to import, edit, and export images seamlessly.
 3. **Import Image**: Utilize the "Import An Image" button to browse, select, and import an image file for watermarking.
 4. **Apply Watermark**: Utilize the diverse set of tools available within MarkEase to apply text, shapes, and image watermarks to your imported image.
 5. **Save/Export**: Upon completion, save or export your edited image using the "Export" feature, ensuring you retain the watermark and desired modifications.
-
-## Limitations
-
-### 1. Supported Formats
-
--  **Limited Format Support**: While MarkEase supports popular formats like JPEG, PNG, and GIF, it may not accommodate less common or proprietary image formats.
-
-### 2. Text Limitations
-
--  **Basic Text Features**: The text watermarking feature within MarkEase offers basic text formatting options, potentially limiting advanced customization requirements.
-
-### 3. Shape Customization
-
--  **Basic Shape Options**: MarkEase primarily focuses on offering basic shape options such as rectangles and circles, potentially restricting users requiring more complex or intricate shapes.
-
-### 4. Performance
-
--  **Processing Constraints**: Processing large images or applying multiple watermarks simultaneously within MarkEase may result in performance constraints or increased processing times.
 
 ## Screenshots
 
