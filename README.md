@@ -10,33 +10,33 @@ MarkEase is a sophisticated yet user-friendly Python application tailored for wa
 
 ### 1. Import Images
 
--  **Versatile Format Support**: MarkEase allows users to effortlessly import images in various formats, including JPEP and PNG, ensuring compatibility with most image files you work with.
--  **User-Friendly Interface**: The import feature is seamlessly integrated into the application's intuitive user interface, enabling quick and hassle-free image uploads.
+- **Versatile Format Support**: MarkEase allows users to effortlessly import images in various formats, including JPEP and PNG, ensuring compatibility with most image files you work with.
+- **User-Friendly Interface**: The import feature is seamlessly integrated into the application's intuitive user interface, enabling quick and hassle-free image uploads.
 
 ### 2. Text Watermarking
 
--  **Customizable Text Elements**: MarkEase empowers users to add custom text to their images, providing options to select from a range of font sizes, styles, and colors.
--  **Real-Time Preview**: Users can preview the text watermark in real-time, allowing for instant adjustments and ensuring optimal placement and appearance.
+- **Customizable Text Elements**: MarkEase empowers users to add custom text to their images, providing options to select from a range of font sizes, styles, and colors.
+- **Real-Time Preview**: Users can preview the text watermark in real-time, allowing for instant adjustments and ensuring optimal placement and appearance.
 
 ### 3. Shape Watermarking
 
--  **Diverse Shape Options**: With MarkEase, users can insert a variety of shapes such as rectangles and circles onto their images, enhancing creativity and versatility.
--  **Size and Positioning Controls**: The application offers precise size and positioning controls for shape elements, enabling users to achieve the desired look and feel.
+- **Diverse Shape Options**: With MarkEase, users can insert a variety of shapes such as rectangles and circles onto their images, enhancing creativity and versatility.
+- **Size and Positioning Controls**: The application offers precise size and positioning controls for shape elements, enabling users to achieve the desired look and feel.
 
 ### 4. Image Watermarking
 
--  **Overlay Images Seamlessly**: MarkEase facilitates the overlaying of images as watermarks, complete with adjustable sizes, opacity levels, and blending options.
--  **High-Quality Output**: The application ensures high-quality output, maintaining image integrity while adding watermarks, making it ideal for professional use.
+- **Overlay Images Seamlessly**: MarkEase facilitates the overlaying of images as watermarks, complete with adjustable sizes, opacity levels, and blending options.
+- **High-Quality Output**: The application ensures high-quality output, maintaining image integrity while adding watermarks, making it ideal for professional use.
 
 ### 5. Adjust Opacity
 
--  **Transparency Controls**: MarkEase provides users with the ability to adjust the opacity of added elements, offering seamless integration with existing images and backgrounds.
--  **Visual Feedback**: The application offers visual feedback on opacity adjustments, allowing users to fine-tune settings for optimal results.
+- **Transparency Controls**: MarkEase provides users with the ability to adjust the opacity of added elements, offering seamless integration with existing images and backgrounds.
+- **Visual Feedback**: The application offers visual feedback on opacity adjustments, allowing users to fine-tune settings for optimal results.
 
 ### 6. Color Settings
 
--  **Custom Color Selection**: MarkEase offers extensive color customization options, enabling users to select specific colors for text or shape elements based on their preferences.
--  **Color Picker Tool**: The integrated color picker tool simplifies the color selection process, offering a wide spectrum of color choices and shades.
+- **Custom Color Selection**: MarkEase offers extensive color customization options, enabling users to select specific colors for text or shape elements based on their preferences.
+- **Color Picker Tool**: The integrated color picker tool simplifies the color selection process, offering a wide spectrum of color choices and shades.
 
 ## How to Use
 
